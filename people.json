@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Shashank Tiwari",
+        "age": "20",
+        "gender": "Male",
+        "news_interest": true,
+        "news_categories": [
+            "Sports",
+            "Science"
+        ],
+        "stock_interest": true,
+        "stock_tickers": [
+            "AAPL",
+            "NKE"
+        ],
+        "todo_list": [
+            "Run"
+        ]
+    },
+    {
+        "name": "Tushar Bhat",
+        "age": "19",
+        "gender": "Male",
+        "news_interest": true,
+        "news_categories": [
+            "Sports",
+            "Politics",
+            "Business"
+        ],
+        "stock_interest": true,
+        "stock_tickers": [
+            "AAPL",
+            "GOOGL"
+        ],
+        "todo_list": [
+            "Run",
+            "Gym"
+        ]
+    }
+]
